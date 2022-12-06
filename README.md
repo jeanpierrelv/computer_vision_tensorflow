@@ -19,5 +19,5 @@ This computer vision project is about image classification and object detection.
 - [x] Transformation from Json to TFrecord file:\
       [Json_to_TFrecord](https://github.com/jeanpierrelv/computer_vision_tensorflow/blob/main/json_to_tfrecord.ipynb)
 - [x] Training model and saving it:\
-      [Training_Models](https://github.com/jeanpierrelv/computer_vision_tensorflow/blob/main/json_to_tfrecord.ipynb)
+      [Training_Models](https://github.com/jeanpierrelv/computer_vision_tensorflow/blob/main/training-models.ipynb)
 - [ ] Inference the model:\
